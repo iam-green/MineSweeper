@@ -1,0 +1,59 @@
+.cell {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-size: cover;
+    
+}
+
+.img_n {
+    background-image:url(/img/skins/n.svg);
+}
+
+.img_0 {
+    background-image:url(/img/skins/0.svg);
+}
+
+.img_1 {
+    background-image:url(/img/skins/1.svg);
+}
+
+.img_2 {
+    background-image:url(/img/skins/2.svg);
+}
+
+.img_3 {
+    background-image:url(/img/skins/3.svg);
+}
+
+.img_4 {
+    background-image:url(/img/skins/4.svg);
+}
+
+.img_5 {
+    background-image:url(/img/skins/5.svg);
+}
+
+.img_6 {
+    background-image:url(/img/skins/6.svg);
+}
+
+.img_7 {
+    background-image:url(/img/skins/7.svg);
+}
+
+.img_8 {
+    background-image:url(/img/skins/8.svg);
+}
+
+.img_g {
+    background-image:url(/img/skins/g.svg);
+}
+
+.img_m {
+    background-image:url(/img/skins/m.svg);
+}
+
+.img_w {
+    background-image:url(/img/skins/w.svg);
+}
